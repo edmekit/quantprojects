@@ -1,1 +1,1 @@
-simulates a coin toss using tkinter and random module. shows whether there is bias in the coin and the probabilities. uses for loop for the simulation at one time
+simulates a coin toss using tkinter and random module. shows whether there is bias in the coin and the probabilities. uses for loop for the simulation at one time. added a monty hall simulator, uses the same module but shows the variable change in the monty hall. be sure to change doors!
