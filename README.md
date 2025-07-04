@@ -30,7 +30,7 @@ First, do me a favor and make your transaction history like this(4 columns, with
 
 ![data](pics/code1.png)
 
-then as always you can rename the csv into whateever you like and change it accordingly here
+go to backtest.py then as always you can rename the csv into whateever you like and change it accordingly here
 
 ![csv](pics/code.png)
 
